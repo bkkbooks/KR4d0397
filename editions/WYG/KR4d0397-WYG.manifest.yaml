@@ -25,12 +25,12 @@ assets:
   - {seq: 5, filename: KR4d0397_005-WYG.yaml, hash: 'sha256:9cc5aa228152afdbd1023735d5205b59c4be711a503b949ad89bd21189b1e903'}
   - {seq: 6, filename: KR4d0397_006-WYG.yaml, hash: 'sha256:5ecfbb66c1fd97085e940a641369c90efc1cefae6421ac3230a393d113b57ce9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0397_000-WYG.markers.yaml, hash: 'sha256:d26751e5b805d89d04ff5580aa858370b0d30053584b4f097321b70140c4636e'}
-  - {seq: 1, role: markers, filename: assets/KR4d0397_001-WYG.markers.yaml, hash: 'sha256:7e194696c062db9049c78d80a7073ebc5e2bd1b00b4731bfb533be9aa3402635'}
+  - {seq: 0, role: markers, filename: assets/KR4d0397_000-WYG.markers.yaml, hash: 'sha256:d590110571d072d694525db350e70e018fea9fdc04c81a32a826aa6f55e55dad'}
+  - {seq: 1, role: markers, filename: assets/KR4d0397_001-WYG.markers.yaml, hash: 'sha256:f3a1f7239b118c2f4929ff85dbf1431b1b0774d9ab94158f832bc07ba9b32d1b'}
   - {seq: 2, role: markers, filename: assets/KR4d0397_002-WYG.markers.yaml, hash: 'sha256:92ef00301c5f1ee91d55a19515c72ffab02c40d70f6b32f15d325e76ad555c83'}
   - {seq: 3, role: markers, filename: assets/KR4d0397_003-WYG.markers.yaml, hash: 'sha256:7c6aced2579cbdc70244f2c457662a817209124e8c3dd6367180db9549c4e571'}
   - {seq: 4, role: markers, filename: assets/KR4d0397_004-WYG.markers.yaml, hash: 'sha256:31473144e244d81ed4125379cbaeee4a2f79e851679d1a9d0e266aa3180de935'}
-  - {seq: 5, role: markers, filename: assets/KR4d0397_005-WYG.markers.yaml, hash: 'sha256:78c60bfe59aba6d896a0df6dbfc9f57f1b2fc2d705c5168395e79c22ff42dc66'}
+  - {seq: 5, role: markers, filename: assets/KR4d0397_005-WYG.markers.yaml, hash: 'sha256:0e9955c8db56f9f50cfc54639aec76e13fc52d14e8e4310b6e69fad2f33d5fa3'}
   - {seq: 6, role: markers, filename: assets/KR4d0397_006-WYG.markers.yaml, hash: 'sha256:874becd7043f15d97899c12ba5cc793ed82bcd3727d860dffff265bc9f86c27d'}
 table_of_contents:
 - ref:
@@ -113,4 +113,4 @@ table_of_contents:
   label: 卷六
   type: section
   level: 1
-hash: sha256:26dce452b4a2696a375ba23d6655c7f576b742f6014f7d7d9cb22f41a8be7b1d
+hash: sha256:2a93f884fc4aa3f4e6c185b4065b8173450d09598d9989a1d67de76bb21a5e02
